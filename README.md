@@ -1,1 +1,3 @@
 O trabalho a seguir será realizado com base em um banco de dados sintético, criado para simular padrões globais reais de diferentes tipos de desastres. A Variável alvo do banco é severity_level para regressão, e is_major_disaster para classificação, e serão feitas modelagens para descobrir as relações entre elas e outras variáveis para definir possíveis predições. Uma possível hipótese de negócio para a utilização do nosso trabalho seria na formação de uma rede de inteligência em agências de resgate, para definir quais desastres precisam de maior envio de pessoal, e quais precisam de maior apoio financeiro, por exemplo.
+
+escreva "pip install -r requirements.txt" no seu ambiente python para instalar os requerimentos, depois rode o código fonte no ambiente.
