@@ -1,4 +1,5 @@
 pandas
-seabornstatsmodels 
+seaborn
+statsmodels 
 sklearn
 pycaret
